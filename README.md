@@ -61,12 +61,10 @@ git clone https://github.com/felipe-michael1/ApiPosts.git
 cd your-repository
 
 Run with a local server:
-
 npx serve
 
 or
-
-python -m http.server
+python -m http.server ´´´´
 
 The application uses:
 JSONPlaceholder → users data
