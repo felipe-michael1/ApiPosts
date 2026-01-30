@@ -59,3 +59,40 @@ Clone the repository:
 ```bash
 git clone https://github.com/felipe-michael1/ApiPosts.git
 cd your-repository
+
+Run with a local server:
+
+npx serve
+
+or
+
+python -m http.server
+
+The application uses:
+JSONPlaceholder → users data
+Local PHP API (php/api.php) → posts and comments
+
+## 🎯 Purpose
+
+This project was created to:
+
+** Practice REST API consumption **
+** Apply modern JavaScript concepts **
+** Demonstrate clean frontend architecture **
+** Serve as a portfolio or technical test project **
+
+## 📈 Future Improvements
+
+** Pagination for posts **
+** Search/filter functionality **
+** GitHub Pages deployment ** 
+** Automated tests ** 
+** Component-based structure **
+
+## 📄 License
+
+MIT
+
+## 👨‍💻 Author
+
+Felipe Fonseca
