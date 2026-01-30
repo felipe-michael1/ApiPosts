@@ -57,5 +57,5 @@ The project separates responsibilities into clear functions:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/felipe-michael1/ApiPosts.git
 cd your-repository
