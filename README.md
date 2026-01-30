@@ -76,18 +76,18 @@ Local PHP API (php/api.php) → posts and comments
 
 This project was created to:
 
-Practice REST API consumption
-Apply modern JavaScript concepts
-Demonstrate clean frontend architecture
-Serve as a portfolio or technical test project
+- Practice REST API consumption
+- Apply modern JavaScript concepts
+- Demonstrate clean frontend architecture
+- Serve as a portfolio or technical test project
 
 ## 📈 Future Improvements
 
-Pagination for posts
-Search/filter functionality
-GitHub Pages deployment 
-Automated tests
-Component-based structure
+- Pagination for posts
+- Search/filter functionality
+- GitHub Pages deployment 
+- Automated tests
+- Component-based structure
 
 ## 📄 License
 
